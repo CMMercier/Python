@@ -7,5 +7,6 @@ I hope to come back in the future as I learn more and expand on these simple sci
 
 Special thanks:
 
-INE.com - Penetration Testing Basics (Free via the Starter Pass)
-Joe Helle - https://academy.tcm-sec.com/p/movement-pivoting-and-persistence-for-pentesters-and-ethical-hackers/
+> INE.com - Penetration Testing Basics (Free via the Starter Pass) https://my.ine.com/CyberSecurity/courses/6f986ca5/penetration-testing-basics
+> 
+> Joe Helle - https://academy.tcm-sec.com/p/movement-pivoting-and-persistence-for-pentesters-and-ethical-hackers/
